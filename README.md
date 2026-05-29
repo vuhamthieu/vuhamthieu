@@ -5,7 +5,7 @@ Favourit Topics:
 - 📡 IoT & IIoT
 - 🦾 Robotics (learning)
 - 🔌 Embedded systems
-- 🐧 Linux (daily driver)
+- 🐧 Linux
 
 > Making smart things, one dev board at a time.
 
